@@ -1,8 +1,6 @@
 ---
-name: 湖州项目信息关键词爬虫
-description: 自动爬取湖州项目平台，支持关键词检索、自动翻页、去重、提取发布时间，输出JSON结果
-author: auto
-version: 1.0.0
+name: 湖州项目爬虫
+description: 关键词检索、自动翻页、去重、输出JSON
 ---
 
 # 湖州项目信息关键词爬虫
